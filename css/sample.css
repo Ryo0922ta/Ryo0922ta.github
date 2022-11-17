@@ -1,0 +1,20 @@
+p {
+  color: orange;
+}
+body {
+  color: gray;
+  font-size: 30px;
+}
+#headline h1 {
+  color: orange;
+}
+#headline, p1 {
+  color: blue;
+}
+
+.counter {
+  color: #000;
+}
+.exap p1 span {
+  color:red;
+}
